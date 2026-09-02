@@ -14,7 +14,7 @@ A public web page with six sections:
 | Section | What goes there |
 |---|---|
 | Home | My name is Diego Fernando Vidales Rodriguez, and i am a systems engineering student. ferchovidales0901@hotmail.com|
-| About | Two or three sentences about you |
+| About |I am a systems engineering student with a background in programming; I have a foundation in PHP, HTML, Java, databases, and platform-based game development. I want to continue pursuing this degree—which I am passionate about—while strengthening my skills and meeting new people.|
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
