@@ -13,7 +13,7 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
+| Home | My name is Diego Fernando Vidales Rodriguez, and i am a systems engineering student. ferchovidales0901@hotmail.com|
 | About | Two or three sentences about you |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
